@@ -1,0 +1,50 @@
+InitialSeparation = 189.8 metres
+OvertakingSpeed = 28.8 m/s
+OncomingSpeed = 31.6 m/s
+Success = False
+
+InitialSeparation = 174.7 metres
+OvertakingSpeed = 30.7 m/s
+OncomingSpeed = 25.6 m/s
+Success = False
+
+InitialSeparation = 178.4 metres
+OvertakingSpeed = 24.3 m/s
+OncomingSpeed = 26.9 m/s
+Success = False
+
+InitialSeparation = 176.9 metres
+OvertakingSpeed = 25.3 m/s
+OncomingSpeed = 21.8 m/s
+Success = False
+
+InitialSeparation = 207.5 metres
+OvertakingSpeed = 23.9 m/s
+OncomingSpeed = 32.8 m/s
+Success = False
+
+InitialSeparation = 233.6 metres
+OvertakingSpeed = 26.7 m/s
+OncomingSpeed = 18.9 m/s
+Success = True
+
+InitialSeparation = 259.6 metres
+OvertakingSpeed = 23.3 m/s
+OncomingSpeed = 27.2 m/s
+Success = True
+
+InitialSeparation = 196.9 metres
+OvertakingSpeed = 20.5 m/s
+OncomingSpeed = 19.9 m/s
+Success = True
+
+InitialSeparation = 232.3 metres
+OvertakingSpeed = 30.4 m/s
+OncomingSpeed = 27.0 m/s
+Success = False
+
+InitialSeparation = 263.7 metres
+OvertakingSpeed = 22.8 m/s
+OncomingSpeed = 31.3 m/s
+Success = True
+
